@@ -1,0 +1,8 @@
+.navIcon{
+  filter: invert(1);
+  height: 22px;
+}
+
+.lockIcon{
+  filter: invert(1);
+}
